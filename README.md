@@ -1,0 +1,2 @@
+# UniCo
+ An idea to bring all the universities, colleges and schools together to create a single entity. It will provide updated academic knowlege, ease of access and a platform where a student or an acedemic institute can compare itself with everyone else. It's main purpose is to provide equal education for everyone and free of cost if possible. Just to clarify it will only contain knowlege not information.
